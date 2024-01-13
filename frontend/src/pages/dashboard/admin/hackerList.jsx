@@ -11,7 +11,7 @@ const hackerList = () => {
 
   useEffect(() => {
     axios
-      .get("http://localhost:5555/hackerlist")
+      .get("https://codehacker-mern.onrender.com/hackerlist")
       .then((result) => {
         setHackerData(result.data.data);
         console.log(result);
@@ -32,7 +32,7 @@ const hackerList = () => {
       confirmButtonText: "Yes, delete it!",
     }).then( async(result) => {
       if (result.isConfirmed) {
-        const res = await axios.delete(`http://localhost:5555/hackerlist/${item._id}`);
+        const res = await axios.delete(`https://codehacker-mern.onrender.com/hackerlist/${item._id}`);
          
         Swal.fire({
           title: "Deleted!",

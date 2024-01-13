@@ -12,7 +12,7 @@ const deleteHacker = () => {
 
     setLoading(true);
     axios
-      .delete(`http://localhost:5555/delete/hackerlist/${id}`)
+      .delete(`https://codehacker-mern.onrender.com/delete/hackerlist/${id}`)
       .then(()=> {
         setLoading(false);
         alert("Deleted Successfully")

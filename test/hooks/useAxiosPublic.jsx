@@ -2,7 +2,7 @@ import React from 'react'
 import axios from "axios";
 
 const axiosPublic = axios.create({
-    baseURL: 'http://localhost:5555',
+    baseURL: 'https://codehacker-mern.onrender.com',
 })
 
 const useAxiosPublic = () => {

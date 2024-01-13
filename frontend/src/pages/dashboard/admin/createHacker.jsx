@@ -40,7 +40,7 @@ const createHacker = () => {
     e.preventDefault();
 
     axios
-        .post('http://localhost:5555/hackerlist', formData)
+        .post('https://codehacker-mern.onrender.com/hackerlist', formData)
         .then((result) => {
           alert("Successfully created");
           navigate("/dashboard");

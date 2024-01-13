@@ -52,7 +52,7 @@ export default verifyToken
             if (currentUser) {
               setUser(currentUser);
               const userInfo = { email: currentUser.email}
-              axios.post("http://localhost:5555/jwt", userInfo)
+              axios.post("https://codehacker-mern.onrender.com/jwt", userInfo)
               .then((response) => {
                 // console.log(response.data);
                 if(response.data.token)

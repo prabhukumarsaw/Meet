@@ -14,7 +14,7 @@ const Hacker = () => {
 
   useEffect(() => {
     axios
-      .get('http://localhost:5555/hackerlist')
+      .get('https://codehacker-mern.onrender.com/hackerlist')
       .then((result) => {
         setHackerData(result.data.data);
         setFilteredData(result.data.data);

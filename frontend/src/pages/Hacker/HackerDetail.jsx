@@ -9,7 +9,7 @@ const HackerDetail = () => {
 
   useEffect(() => {
     axios
-      .get(`http://localhost:5555/hackerlist/${id}`)
+      .get(`https://codehacker-mern.onrender.com/hackerlist/${id}`)
       .then((result) => {
         setData(result.data);
         console.log(result);
