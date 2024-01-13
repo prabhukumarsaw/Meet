@@ -1,0 +1,112 @@
+[
+    {
+        "_id": 1,
+      "name": "Aditya Oberai",
+      "title": "HACKER, ORGANIZER, MENTOR",
+      "year": "2022",
+      "category": "delhi",
+      "age": 20,
+      "image": "https://images.ctfassets.net/kv878odoqyd1/4IHvB1us05jHsf5PgclglL/2cf6802ce2937e3c5d147cef9d73216d/Disha.jpg?h=500&w=500&fit=fill&f=face",
+      "address":"Dehradun, Uttarakhand, India",
+      "lang":"C# (.NET)",
+      "des": "Aditya’s introduction to the world of hackathons was a bit more turbulent than most. His coding journey began in middle school, leading to the study of Computer Science all throughout high school. What was once an intense passion later became an intense case of imposter syndrome — seeing how others progressed alongside him left him very unmotivated, frequently comparing himself to others. This manifested in Aditya picking up more activities outside of the tech world. It was thanks to the welcoming hacker community that he was able to rediscover that love for coding and get him out of that rut. By shedding the fear of failure or second-hand disappointment, he was able to start fresh while learning from equally eager peers."
+    },
+    {
+        "_id": 2,
+        "name": "Alexis Fry",
+        "title": "HACKER, ORGANIZER",
+        "year": "2022",
+        "category": "Banglore",
+        "age": 19,
+        "image": "./img/2.jpg",
+        "address":"New York, NY, USA",
+        "lang":"Python, Swift",
+        "des": "When not in class, Alexis is usually found in her school’s basement, tinkering away in the robotics lab. Her robotics community introduced her to hackathons and convinced her to attend HackMann in New York City. Upon entering the venue, Alexis realized that she was one of only four women at the entire event. Creating an all-women team, Alexis and her peers created a bot that used an AI algorithm to flag common terms or phrases used to sexually harass gamers on Discord servers. Alexis and her team were initially unfazed by the other male competitors, but upon presenting their project and seeing some snide laughter from others, Alexis felt a wave of intense anger that she will never forget. Despite the lack of respect from peers, the project won 3rd place at the event, and the experience was pivotal not only in her obsession with building a better world through technical product creation, but also in motivating her passion to make hackathons a more welcoming environment for gender minorities. Alexis continues to attend hackathons, and even co-organized a virtual HackMann event last summer, reaching over 150 high school and middle school students from around the world."
+    },
+    {
+        "_id": 3,
+        "name": "Disha Srivastava",
+        "title": "HACKER, ORGANIZER",
+        "year": "2023",
+        "category": "Kerla",
+        "age": 21,
+        "image": "./img/3.jpg",
+        "address":"demo",
+        "lang":"demo",
+        "des": "As Disha entered her first hackathon, Los Altos Hacks II, she and her teammate were both excited to bring their first original project to the table. Taking place around the time of the unfolding refugee crisis in Aleppo, Disha hoped to work on a project that would raise awareness of the humanitarian crisis. With this goal in mind and with the help of their mentors, the pair attempted to create a web-based game that would gamify the struggles experienced by the civilians of Aleppo, aiming to raise awareness for the urgency for humanitarian relief. The project came with its share of struggles, resulting in an imperfect prototype. Even though the project wasn’t an immediate success, Disha was left with inspiration from the immense power of technology to educate individuals on current events and social issues which demand unity"
+    },
+    {
+        "_id": 4,
+        "name": "A",
+        "title": "demo",
+        "year": "2023",
+        "category": "kolkata",
+        "age": 20,
+        "image": "img/4.jpg",
+        "address":"demo",
+        "lang":"demo",
+        "des": "demo"
+    },
+    {
+        "_id": 5,
+        "name": "A",
+        "title": "demo",
+        "year": "2023",
+        "category": "delhi",
+        "age": 20,
+        "image": "img/9.jpg",
+        "address":"demo",
+        "lang":"demo",
+        "des": "demo"
+    },
+    {
+        "_id": 6,
+        "name": "A",
+        "title": "demo",
+        "year": "2020",
+        "category": "gurugram",
+        "age": 20,
+        "image": "img/5.jpg",
+        "address":"demo",
+        "lang":"demo",
+        "des": "demo"
+    },
+    {
+        "_id": 7,
+        "name": "A",
+        "title": "demo",
+        "year": "2020",
+        "category": "kolkata",
+        "age": 20,
+        "image": "img/1.jpg",
+        "address":"demo",
+        "lang":"demo",
+        "des": "demo"
+    },
+    {
+        "_id": 8,
+        "name": "A",
+        "title": "demo",
+        "year": "2022",
+        "category": "gurugram",
+        "age": 20,
+        "image": "img/8.jpg",
+        "address":"demo",
+        "lang":"demo",
+        "des": "demo"
+    },
+    {
+        "_id": 9,
+        "name": "A",
+        "title": "demo",
+        "year": "2022",
+        "category": "gurugram",
+        "age": 20,
+        "image": "img/7.jpg",
+        "address":"demo",
+        "lang":"demo",
+        "des": "demo"
+    }
+    
+  ]
+  
