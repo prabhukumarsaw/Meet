@@ -2,6 +2,7 @@ import React, { useContext, useEffect, useState } from 'react'
 import ModalAuth from './ModalAuth';
 import Profile from './Profile';
 import useAuth from '../hooks/useAuth';
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
   const [isSticky, setSticky] = useState(false);
@@ -61,7 +62,7 @@ const Navbar = () => {
     <ul className="menu menu-horizontal px-1">
       <li><a href='/'>Home</a></li>
    
-      <li><a href='/hacker'>Hacker List</a></li>
+      <li><Link to='/hacker'>Hacker List</Link></li>
       <li><a href='/contact'>About</a></li>
     </ul>
   </div>
